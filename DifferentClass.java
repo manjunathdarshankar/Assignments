@@ -21,5 +21,5 @@ public class DifferentClass {
 		class1.defaultMethod();
 		class1.protectedMethod();
 		class1.publicMethod();
-	}
+	} //end of main
 }
